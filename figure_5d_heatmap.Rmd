@@ -210,3 +210,11 @@ knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
   
   knitr::include_graphics("plots/figure_5d_heatmap.png")
 ```
+
+# Session Info
+
+```{r session_info}
+
+sessionInfo()
+
+```
